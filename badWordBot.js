@@ -5,7 +5,6 @@ client.on('ready', () =>{
   console.log("Connected as " + client.user.tag);
 });
 
-//Insert discord bot token in between the quotes if not hosting on Glitch. Comment out the lower one when doing it
 //var token = process.env.SECRET;
 /*
 const loginPromise = new Promise((resolve, reject) =>{
@@ -15,7 +14,8 @@ const loginPromise = new Promise((resolve, reject) =>{
 loginPromise.then((() => {client.login(process.env.SECRET);})).catch((err) => {console.log("Error: ", err)});
 */
 
-var token = "NjA0ODE1NzAzOTcwOTM4OTIx.XT21_A.sWzNTx5SvAvCnvlBeuN6u-U31pg"; 
+//Insert discord bot token in between the quotes if not hosting on Glitch. Comment out the lower one when doing it
+var token = ""; 
 client.login(token);
 client.on("message", (message) => {
   
