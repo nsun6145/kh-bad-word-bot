@@ -4,7 +4,7 @@ This bot will post an image of Berseker or whatever in response to if a certain 
 
 # How To Use
 
-1. Make sure you have NodeJS installed
+1. Make sure you have NodeJS installed. If not, install it.
 
 2. Download or git clone this code to your PC 
 
@@ -12,7 +12,7 @@ This bot will post an image of Berseker or whatever in response to if a certain 
 
 4. Navigate to the folder in cmd or Shift + Right-Click in the folder to open a command line window (Or just Right-Click > "Git Bash Here" if you have Git Bash installed)
 
-5.In the command line, type "npm install discord.js". Ignore the warnings.
+5. In the command line, type "npm install discord.js". Ignore the warnings.
 
 6. In the command line, type "node badWordBot.js" and hit Enter (Pardon me camel-casing a file name, I derped)
 
