@@ -1,0 +1,16 @@
+{
+  "name": "bad_word_bot",
+  "version": "1.0.0",
+  "description": "bad words are bad",
+  "main": "index.js",
+  "scripts": {
+    "test": "testBot"
+  },
+  "author": "Nathan Sun",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.5",
+    "discord.js": "^11.5.1",
+    "ws": "^7.1.1"
+  }
+}
