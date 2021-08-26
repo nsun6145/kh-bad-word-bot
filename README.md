@@ -20,6 +20,6 @@ This bot will post an image of Berseker or whatever in response to if a certain 
 
 # Current word list as of V 1.0 is:
 
-* n*****r
+* [Gamer word]
 * owo, uwu, and òwó
 
